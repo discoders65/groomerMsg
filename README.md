@@ -10,6 +10,8 @@
 
 <p>The Groomer Msg microservice was created with the idea of extending the Groomer Web App application to enable sending notifications to users via email. The service receives notifications sent from the application through a queue system built in RabbitMQ. Then, based on HTML templates, it constructs the appropriate message and sends it using JavaMail.</p>
 
+![Alt Text](https://raw.githubusercontent.com/discoders65/groomerMsg/develop/services_architecture.jpg)
+
 <h2>Table of Contents</h2>
 
 <ul>
